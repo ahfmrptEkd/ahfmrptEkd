@@ -28,13 +28,14 @@
   - 🖼 Computer Vision
   - 📝 Natrual Language Processing
 - 🤔 I’m looking for help with getting a job
-- 💬 Ask me about anything you want to know about me
+- 💬 Ask me about anything you want to know about me & ML, DL, CV
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am kinda weird that i would enjoy haning out with ppl as much as being alone myself.
 
 - 📫 How to reach me:
 	- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samuel-park-2b8262279/)](https://www.linkedin.com/in/samuel-park-2b8262279/)
 	- [![Gmail Badge](https://img.shields.io/badge/-tkandpf9914@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkandpf9914@gmail.com)](mailto:tkandpf@gmail.com)
+ 	- <a href="https://www.kaggle.com/samuelpark97"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30"></a>	
 
 ---
 ## 💻  projects
@@ -51,11 +52,17 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!-- MySQL -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <!-- python -->
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <!-- github -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>   <!-- Linux -->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>  <!-- ubuntu -->
+<img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626">   <!-- jupyter -->
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>  <!-- sci-kit -->
+
+
+
 
 **Code Cycle**
 
