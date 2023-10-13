@@ -1,14 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on Studying Data
 - 🌱 I’m currently learning python, MySQL, Data visualizing, Machine Learning, Deep Learning, Pytorch
 - 🤔 I’m looking for help with getting a job
 - 💬 Ask me about anything you want to know about me 
 - 📫 How to reach me:
-   -  telephone : 010-4314-6475 / +82 0-4314-6475
+ 
    -  Email : tkandpf9914@gmail.com
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am kinda weird that i would enjoy haning out with ppl as much as being alone myself.
+
+---
+## 💻 Current project
 <!--
 **ahfmrptEkd/ahfmrptEkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
