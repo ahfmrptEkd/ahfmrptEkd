@@ -35,11 +35,9 @@
 - 📫 How to reach me:
 	- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samuel-park-2b8262279/)](https://www.linkedin.com/in/samuel-park-2b8262279/)
 	- [![Gmail Badge](https://img.shields.io/badge/-tkandpf9914@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkandpf9914@gmail.com)](mailto:tkandpf@gmail.com)
-	- <a href="mailto:tkandpf9914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
- 	- <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tkandpf9914@gmail.com" target="_blank"> </a>
 
 ---
-## 💻  project
+## 💻  projects
 
 ---
 <!--
