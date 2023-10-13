@@ -34,8 +34,8 @@
 
 - 📫 How to reach me:
 	- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samuel-park-2b8262279/)](https://www.linkedin.com/in/samuel-park-2b8262279/)
-	- [![Gmail Badge](https://img.shields.io/badge/-tkandpf9914@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkandpf9914@gmail.com)](<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to= tkandpf9914@gmail.com" target="_blank"> </a>)
- 	- [![Gamil Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to= tkandpf9914@gmail.com" target="_blank"> </a>)
+	- [![Gmail Badge](https://img.shields.io/badge/-tkandpf9914@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkandpf9914@gmail.com)](mailto:tkandpf@gmail.com)
+ 	- [![Gamil Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;ot= tkandpf9914@gmail.com" target="tkandpf9914@gmail.com"> </a>)
 
 ---
 ## 💻  project
