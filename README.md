@@ -26,8 +26,8 @@
   - 📊 Deep Learning
   - 📊 Reinforcement Learning
   - 🖼 Computer Vision
-  - 📝 Natrual Language Processing
-- 🤔 I’m looking for help with getting a job
+  - 🤔 Generation AI
+
 - 💬 Ask me about anything you want to know about me & ML, DL, CV
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am kinda weird that i would enjoy haning out with ppl as much as being alone myself.
