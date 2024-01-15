@@ -37,15 +37,18 @@
 	- [![Gmail Badge](https://img.shields.io/badge/-tkandpf9914@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkandpf9914@gmail.com)](mailto:tkandpf@gmail.com)
  	- <a href="https://www.kaggle.com/samuelpark97"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30"></a>	
 
----
-## 💻  projects
+<br/><br/>
 
+---
+## 💻  Portfolio
+- you can check my projects in this [Git Repository](https://github.com/ahfmrptEkd/Portfolio)
 ---
 <!--
 ### 여기에 추후 포트폴리오 리포지토리들 아례 예시처럼 넣으면 된다.
 [보이는 이름](링크)
 -->
 
+<br/><br/>
 
 ## ⚙️ Some Tool and Tech I use
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
