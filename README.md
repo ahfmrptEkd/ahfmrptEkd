@@ -15,11 +15,12 @@
 		  return Suwon_ROK
 	
 	  def Ambitions():
-		  Being more Creativity()
-		  FinishMyBooks()
-		  # Assume 10 more awesome ambitions here  ;)
+		  Being_more_Creativity()
+		  Reading_Books()
+		  Changing_world_with_AI
 	
  ```
+<br>
 
 - 🔭 I enjoy & am currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   - 📊 Machine Learning & Data Science
@@ -64,6 +65,13 @@
 <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626">   <!-- jupyter -->
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>  <!-- sci-kit -->
 
+</br></br></br>
+## 🧗🏻‍♀️ Tech Stack
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>  <img src="https://img.shields.io/badge/scipy-8CAAE6?style=flat&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> 
+![matplotlib](http://img.shields.io/badge/-Matplotlib-FF6441?style=flat)
+![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat)
+
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
 
 
