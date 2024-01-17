@@ -1,5 +1,11 @@
 # Hi there 👋
 
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Samuel_Park%20&desc=Junior%20Data%20Scientist&reversal=false&fontColor=0CE5DB&rotate=-10&strokeWidth=0&animation=twinkling&descAlign=50&descAlignY=65)
+
+<br>
+
  ## Who am I?
  ```python
  class WhoAmI:
