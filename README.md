@@ -31,8 +31,6 @@
 - 🔭 I enjoy & am currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
   - 📊 Machine Learning & Data Science
   - 📊 Deep Learning
-  - 📊 Reinforcement Learning
-  - 🖼 Computer Vision
   - 🤔 Generation AI
 
 - 💬 Ask me about anything you want to know about me & ML, DL, CV
