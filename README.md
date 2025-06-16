@@ -1,98 +1,139 @@
-# Hi there 👋
+# Hi there! 👋 I'm Samuel Park
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Samuel%20Park%20&desc=AI%20Engineer&reversal=false&fontColor=0CE5DB&rotate=-10&strokeWidth=0&animation=twinkling&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Samuel%20Park%20&desc=AI%20Engineer&reversal=false&fontColor=ffffff&rotate=-10&strokeWidth=0&animation=twinkling&descAlign=50&descAlignY=65)
 
 <br>
 
- ## Who am I?
+<div align="center">
+| 🎮 Aspiring AI Engineer | 🤖 LLM/Generative AI Specialist |  <br> | 🎯 Game AI Enthusiast Passionate about bringing LLM & Generative AI into Gaming Experiences |
+
+![header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+in+Making;LLM+%26+Game+AI+Developer;Creating+Living+NPCs+with+AI)
+
+</div>
+
+ ## 👨‍💻 About Me
  ```python
- class WhoAmI:
- 	  user = 'Samuel Park'
-		  current_work = 'Writing code'
-		  hobbies = [
-				  'Reading',
-				  'Watching Movie',
-			  	  'Being up all Night chasing that ONE BUG...'
-			]
-	
-	  def getCity():
-		  return Suwon_ROK
-	
-	  def Ambitions():
-		  Being_more_Creativity()
-		  Reading_Books()
-		  Changing_world_with_AI
-	
+ class SamuelPark:
+    def __init__(self):
+        self.location = "Suwon, South Korea 🇰🇷"
+        self.current_status = "Job Seeking (AI Engineer) 🔍"
+        self.languages = ["Korean(Native)", "English(Fluent - US Study)"]
+        self.experience = "AI Research Intern @ Jenti (6 months)"
+        
+    def core_interests(self):
+        return [
+            "🤖 Large Language Models (LLM)",
+            "🎨 Generative AI (Stable Diffusion, etc.)", 
+            "🎮 Game AI Integration",
+            "🧠 Vision-Language Models (VLM)"
+        ]
+    
+    def tech_stack(self):
+        return {
+            "AI/ML": ["PyTorch", "Transformers", "OpenAI API"],
+            "Languages": ["Python", "C++", "C#"],
+            "Specialties": ["Fine-tuning", "Prompt Engineering", "Model Optimization"]
+        }
+        
+    def dream_project(self):
+        return "Creating living NPC brains with LLM & Generative AI - NPCs that think, remember, and evolve for ultimate game immersion 🧠🎮"
+        
+    def fun_fact(self):
+        return "I love being up all night chasing that ONE BUG... but dreaming of NPCs that feel truly alive!"
  ```
+
 <br>
 
-- 🔭 I enjoy & am currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  - 📊 Machine Learning & Data Science
-  - 📊 Deep Learning
-  - 🤔 Generation AI
+## 💼 Professional Experience
 
-- 💬 Ask me about anything you want to know about me & ML, DL, CV
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am kinda weird that i would enjoy haning out with ppl as much as being alone myself.
+**🔬 AI Research Intern @ Jenti** *(Jun 2024 - Dec 2024)*
+- 🤖 **LLM/VLM Systems**: Document analysis, speech recognition, chatbot development
+- 🎯 **Fine-tuning & Optimization**: Few-shot learning, prompt engineering, model deployment
+- 🧠 **Research**: Continual learning, multimodal fusion systems
+- 📊 **Impact**: Built production-ready AI systems with measurable performance improvements
 
-- 📫 How to reach me:
-	- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samuel-park-2b8262279/)](https://www.linkedin.com/in/samuel-park-2b8262279/)
-	- [![Gmail Badge](https://img.shields.io/badge/-tkandpf9914@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkandpf9914@gmail.com)](mailto:tkandpf@gmail.com)
- 	- <a href="https://www.kaggle.com/samuelpark97"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="30"></a>	
+<br>
 
-<br/><br/>
+## 🌟 Core Strengths
+
+- **🧠 Problem Solving**: Redefining complex problems through AI lens
+- **📚 Continuous Learning**: Rapidly adapting to emerging AI technologies
+- **🤝 Collaboration**: Effective communication in multilingual environments
+- **🎯 Research-to-Production**: Bridging academic research and practical applications
+
+<br>
+
+## 🎮 Game AI Vision
+
+> *"Creating NPCs with living brains powered by LLM & Generative AI - characters that truly think, remember, and evolve to deliver unprecedented game immersion."*
+
+**Current Focus:**
+- 🧠 **Living NPC Brains**: LLM-powered NPCs with memory, personality, and growth
+- 🎨 **AI-Assisted Game Development**: Tools that help developers create better games faster
+- 🎭 **Immersive Interactions**: Context-aware dialogue and behavior systems
+- 🌍 **Smart Game Mechanics**: AI that adapts and personalizes gameplay experiences
+
+<br>
+
+## 🏆 Competition Achievements
+
+| Competition | Rank | Highlight |
+|-------------|------|-----------|
+| 🥇 **DACON Job Recommendation** | **Top 6%** | Collaborative Filtering optimization |
+| 🥈 **Kaggle ICR Age Conditions** | **Top 13%** | Team leadership & ML pipeline |
+| 🚗 **DACON Car Classification** | **Top 34%** | VLM fine-tuning innovation |
+
+<br>
+
+## 🛠️ Featured Projects
+
+### 🎮 [Game AI Search Algorithms](https://github.com/ahfmrptEkd/game_ai_search_algorithms)
+**C++ | Pathfinding | Algorithm Optimization**
+- Implemented BFS, DFS, A* for game environment navigation
+- Performance benchmarking and heuristic optimization
+- Foundation for intelligent game AI decision-making
+
+### 🎨 [Stable Diffusion Web Service](https://github.com/ahfmrptEkd/Project_SD)
+**Python | Stable Diffusion | LoRA | Web API**
+- Built personalized AI portrait generation service
+- Improved image quality success rate from 30% → 50%+
+- Integrated LoRA models for enhanced customization
+
+### 🔍 [VLM Car Classification](https://github.com/ahfmrptEkd/Competition_Car)
+**PyTorch | Vision-Language Models | Fine-tuning**
+- Fine-tuned LLaVA-1.5-7B, Qwen2.5-VL for 396 car classes
+- 92% performance improvement through multimodal fusion
+- Memory optimization for personal GPU training
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahfmrptEkd&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahfmrptEkd&layout=compact&theme=radical)
+  
+</div>
+
+<br>
+
+## 📫 Let's Connect!
+
+- 🎯 **Portfolio**: [My Projects](https://github.com/ahfmrptEkd/Portfolio)
+- 📝 **Blog**: [Personal Blog](https://ahfmrptekd.notion.site/ahfmrptEkd-Personal-Blog-1749f7f2d1de8123b6c1c60726184bd0)
+- 💌 **Email**: tkandpf9914@gmail.com
+- 📱 **Mobile**: 010-4314-6475
 
 ---
-## 💻  Portfolio
-- you can check my projects in this [Git Repository](https://github.com/ahfmrptEkd/Portfolio)
----
-<!--
-### 여기에 추후 포트폴리오 리포지토리들 아례 예시처럼 넣으면 된다.
-[보이는 이름](링크)
--->
 
-<br/><br/>
-
-## ⚙️ Some Tool and Tech I use
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <!-- github -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>   <!-- Linux -->
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>  <!-- ubuntu -->
-<img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626">   <!-- jupyter -->
-
-</br>
-
-## 🧗🏻‍♀️ Tech Stack
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <!-- MySQL -->
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/> 
-![matplotlib](http://img.shields.io/badge/-Matplotlib-FF6441?style=flat) ![seaborn](http://img.shields.io/badge/-Seaborn-1287B1?style=flat) <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/> 
-
-
-
-**Code Cycle**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-
-<!--
-**ahfmrptEkd/ahfmrptEkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ⚡ *"Building AI that makes NPCs feel truly alive - one neural network at a time!"* ⚡
+  
+  **Currently open to AI Engineer opportunities, especially in Game AI! 🚀**
+  
+</div>
