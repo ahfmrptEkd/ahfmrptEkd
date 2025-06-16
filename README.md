@@ -41,7 +41,7 @@
         return "Creating living NPC brains with LLM & Generative AI - NPCs that think, remember, and evolve for ultimate game immersion 🧠🎮"
         
     def fun_fact(self):
-        return "I love being up all night chasing that ONE BUG... but dreaming of NPCs that feel truly alive!"
+        return "My GPU runs hotter than my coffee, but my passion for AI burns even brighter! ☕🔥"
  ```
 
 <br>
