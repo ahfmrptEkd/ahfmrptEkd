@@ -9,7 +9,7 @@
 <div align="center">
 | 🎮 Aspiring AI Engineer | 🤖 LLM/Generative AI Specialist |  <br> | 🎯 Game AI Enthusiast Passionate about bringing LLM & Generative AI into Gaming Experiences |
 
-![header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+in+Making;LLM+%26+Game+AI+Developer;Creating+Living+NPCs+with+AI)
+![middle](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer+in+the+Making;LLM+%26+Game+AI+Developer;Creating+Living+NPCs+with+AI)
 
 </div>
 
